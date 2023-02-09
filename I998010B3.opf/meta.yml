@@ -1,0 +1,16 @@
+id: I998010B3
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:29:34.558628
+last_modified: 2023-02-10 00:29:34.558732
+source_metadata:
+  title: 'Nāgārjuna: Mūlamadhyamakakārikā'
+  language: bo
+bases:
+  C8EC:
+    base_file: C8EC.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
